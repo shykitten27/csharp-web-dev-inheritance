@@ -1,2 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cats.HouseCat">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>HouseCat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cats.Tabby">
+    <Position X="0.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tabby.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cats.WildCat">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>WildCat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cats.Cat">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAQERAAAAAAAAAAAAAAACAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Cat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
