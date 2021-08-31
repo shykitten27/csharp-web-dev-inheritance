@@ -14,6 +14,11 @@ namespace Cats
             Weight = weight;
         }
 
+        public Cat()
+        {
+            Weight = 13.0;
+        }
+
         // On this line, add a no-argument constructor
 
         public void Sleep()
@@ -32,7 +37,7 @@ namespace Cats
             Hungry = false;
         }
 
-        public virtual string Noise()
+        public virtual string Noise() //virtual sets up for polymorphism
         {
             return "Meow!";
         }
